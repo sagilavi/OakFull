@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
     marginBottom: 24,
   },
   section: {
-    marginBottom: 28,
+    marginBottom: 32,
   },
   sectionTitle: {
     fontSize: 20,
